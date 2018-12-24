@@ -1,0 +1,15 @@
+{
+  "lang": "en-GB",
+  "name": "North Valley Toastmasters",
+  "short_name": "NorthValleyToastmasters",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
