@@ -1,8 +1,8 @@
 # You can remove the first two lines to have credentials read from
 # the environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY or
 # ~/.aws/credentials.
-s3_id: AWS_ACCESS_KEY_ID
-s3_secret: AWS_SECRET_ACCESS_KEY
+s3_id: AKIAJX47T4QFBQWIBK4A
+s3_secret: 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
 s3_bucket: nvtmstaticekylle
 
 # set session_token if using temporary credentials with a session token (eg: when assuming a role)

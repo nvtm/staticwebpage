@@ -78,7 +78,7 @@ lang: en-GB # Set the site language
 title: "North Valley Toastmasters" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "North Valley Toastmasters" # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.nvtm.org" # Site url, also used in jekyll-seo-tag
+url: "http://nvtmstaticekylle.s3-website-us-west-2.amazonaws.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
