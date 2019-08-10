@@ -7,7 +7,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 Come and have breakfast while you have fun learning how to make presentations to an audience.
 
-Where: <b>Denny's Restaurant,333 S. Abbott, Milpitas, CA 95035(just off Calaveras Blvd in Milpitas).</b>
+Where: <b> Denny's Restaurant,333 S. Abbott, Milpitas, CA 95035(just off Calaveras Blvd in Milpitas).</b>
 
 When: Every Friday at 7:00 am - Please try to arrive by 6:50 so you have time to order breakfast
 
