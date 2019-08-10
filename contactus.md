@@ -7,14 +7,14 @@ feature_image: "/assets/contactus.jpg"
 
 |Role |Name |Email |
 |-------------------|----------------------|----------------------|
-|President |Karthik Mandakolathur | President@nvtm.org
-|VP Education |Apoorv Bhargava | vpe@nvtm.org
-|VP Membership |Srinath Ganesh | vpm@nvtm.org
-|VP Public Relations |Tejas Sathe | vppr@nvtm.org
-|Treasurer |Lee Chen | treasurer@nvtm.org
-|Secretary |Alyson King | secretary@nvtm.org
-|Sgt at Arms |Pradeep Gandhi | saa@nvtm.org
-|VP Technology |Tom Nguyen | vpt@nvtm.org
+|President |Alyson King | President@nvtm.org
+|VP Education |Srinath Ganesh | vpe@nvtm.org
+|VP Membership |Lee Chen | vpm@nvtm.org
+|VP Public Relations |Gary Wong | vppr@nvtm.org
+|Treasurer |Tejas Sathe | treasurer@nvtm.org
+|Secretary |Jenny Chen | secretary@nvtm.org
+|Sgt at Arms |Anuj Gupta | saa@nvtm.org
+|VP Technology |Karthik Mandakolathur | vpt@nvtm.org
 
 <div class="datatable-end"></div>
 
