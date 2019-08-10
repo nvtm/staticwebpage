@@ -17,10 +17,3 @@ A number of our members have English as a second (or third, fourth, etc.) langua
 In terms of our more experienced speakers, we have ex-mayors, ex-District Governors, people who have made presentations on live TV, in front of groups of 2000 plus, stage performers and more. Some of these members have been in the club for well over 10 years. So you will find lots of support on a variety of levels.
 
 On the other hand, we also have a number of very new members who are just getting their feet wet (so to speak.) We welcome people of every level of experience and background.
-
-
-
-### Contact form
-
-{% include site-form.html %}
-
